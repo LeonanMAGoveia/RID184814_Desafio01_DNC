@@ -1,6 +1,6 @@
 # Landing Page - Desafio DNC
 
-Este é um projeto desenvolvido como parte do **primeiro desafio do curso de Desenvolvimento Front-End da Escola DNC**. 
+Este é um projeto desenvolvido como parte do **primeiro desafio do curso de Desenvolvimento Front-End da Escola DNC**.                
 O objetivo foi construir uma landing page responsiva utilizando HTML e CSS, simulando um site institucional para um escritório de arquitetura.
 
 ## 🔗 Acesse o projeto online
