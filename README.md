@@ -1,12 +1,11 @@
 # 🏛️ Landing Page: Arquitetura e Experiência
 
-Este projeto é uma **Landing Page institucional** para um escritório de arquitetura, desenvolvido como parte do **Primeiro Desafio do curso de Desenvolvimento Front-End da Escola DNC (RID184814_Desafio01_DNC)**.
+Este projeto é uma **Landing Page** para um escritório de arquitetura, desenvolvido como parte do **Primeiro Desafio do curso de Desenvolvimento Front-End da Escola DNC (RID184814_Desafio01_DNC)**.
 
 O principal objetivo foi criar uma página estática com foco em um **design coeso e fiel à referência visual**, utilizando as bases do desenvolvimento web.
 
 ## ✨ Destaques e Funcionalidades
 
-* **Design Pixel-Perfect:** Layout meticulosamente replicado a partir do [projeto original no Figma](https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=1-3&t=P9pmR96LZZ3vD7xd-0), garantindo fidelidade visual em telas de desktop.
 * **Seções Claras e Intuitivas:**
     * **Cabeçalho Impactante:** Apresentação da proposta de valor.
     * **Dados Informacionais:** Destaque para números de sucesso e experiência.
@@ -25,7 +24,6 @@ Confira a Landing Page em ação:
 
 * **HTML5:** Estruturação semântica do conteúdo. (Com IDs únicos e uso de classes para melhor manutenção).
 * **CSS3:** Estilização para um design moderno e a reprodução fiel da interface, com foco em:
-    * Propriedades `display: flex` e `gap` para layouts responsivos a conteúdo.
     * Uso de valores de espaçamento e tipografia precisos do Figma.
 * **JavaScript:** Validação de formulário (garantindo dados corretos e melhorando a UX).
 * **Google Fonts:** Utilização das fontes "Inter" e "Raleway" para tipografia.
